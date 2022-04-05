@@ -1,0 +1,37 @@
+.container {
+	padding: 400px;
+}
+.list {
+	margin: 10px;
+	padding: 25px;
+	border-radius: 6px;
+	background: rgb(12, 107, 190);
+}
+
+.list img {
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.list-title {
+  font-size: x-large;
+  font-weight: bold;
+  color: black;
+  position: relative;
+  left: 15px;
+}
+
+.list-date {
+  font-size: larger;
+  font-weight:lighter;
+  color: rgb(36, 35, 35);
+  position: relative;
+  left: 15px;
+}
+
+.list-content {
+  font-size: larger;
+  font-weight:lighter;
+  color: rgb(36, 35, 35);
+}
